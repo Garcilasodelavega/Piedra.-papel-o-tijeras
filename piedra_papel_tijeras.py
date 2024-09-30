@@ -23,3 +23,12 @@ def usuario_decide_jugada():
     #Pide al usuario que elija entre piedra, papel o tijeras y devuelve la elección.     
     eleccion_usuario = input("Elige piedra, papel o tijeras: ")    
     return eleccion_usuario
+
+def jugar:
+print("Bienvenido a piedra, papel o tijeras")
+resultado_ordenador = ordenador_decide_jugada()
+resultado_usuario = usuario_decide_jugada()
+
+
+return resultado
+
